@@ -1,0 +1,98 @@
+canonical_identifier: bkk:krp/KR6i0265/T/v1
+canonical_location: https://kanripo.org/bkk/KR6i0265/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說未曾有正法經
+  identifiers:
+    krp: KR6i0265
+    cbeta: T15n0628
+    cbeta_old_id: T15n0628
+    authorityid: CA0003341
+    json_key: T0628
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T15/T15n0628.xml
+    old_id: T15n0628
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0265_000-T.yaml, hash: 'sha256:2d27473ada29b881048e6559ef5f847776a1c1b3b061416eb238d4ab2b448133'}
+  - {seq: 1, filename: KR6i0265_001-T.yaml, hash: 'sha256:3008a2c2bce9047fac4deac7471a8d16ee45b14d3e081409b7302fc6fc3e4af5'}
+  - {seq: 2, filename: KR6i0265_002-T.yaml, hash: 'sha256:2210b5d60eb962ed066a683e030547c3380296f96a42cd321d2060886ee75235'}
+  - {seq: 3, filename: KR6i0265_003-T.yaml, hash: 'sha256:7474c6127b5983353368519ebd7f52686ae45721454c898bc4d0155b07fa20fa'}
+  - {seq: 4, filename: KR6i0265_004-T.yaml, hash: 'sha256:8cb10d7b6f8960680b013b8681401c573078fc16d93b624dd0ed373d3b6da24a'}
+  - {seq: 5, filename: KR6i0265_005-T.yaml, hash: 'sha256:1d866246440fd70d87107cdef517664bef8d9ce08b055f36b7965de665e2c6b8'}
+  - {seq: 6, filename: KR6i0265_006-T.yaml, hash: 'sha256:e9c57eee5b2cecd38f7c0c3ddfcb3782052b4f7e485b85fbd817b052a5a0289c'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0265_000-T.markers.yaml, hash: 'sha256:c707dbfd62a9d2b0db85c2f342916a70917bcc032435188c8dc39e20c71d1f2a'}
+  - {seq: 1, role: markers, filename: assets/KR6i0265_001-T.markers.yaml, hash: 'sha256:a644f49711c223f0452b1ee58e9fbe3578c05a3d2673a514d362b45a6eb7f94e'}
+  - {seq: 2, role: markers, filename: assets/KR6i0265_002-T.markers.yaml, hash: 'sha256:840217aa16080376491cb082dface363e49919d9a959b7915e1428590d1302fc'}
+  - {seq: 3, role: markers, filename: assets/KR6i0265_003-T.markers.yaml, hash: 'sha256:c5185bb9c57b8f08fb35cc366b2fd2eadc1d2212d32c8a0da29e2b88bbab4b4a'}
+  - {seq: 4, role: markers, filename: assets/KR6i0265_004-T.markers.yaml, hash: 'sha256:24344e8dfd8523e55e82b6424ce6b0998df81e840f5416f27223b21788a76aba'}
+  - {seq: 5, role: markers, filename: assets/KR6i0265_005-T.markers.yaml, hash: 'sha256:b8f1bcd8005c3bbdba02d1fe7ec04ededa6f959f5a0bec0981de1a2be9c01bfb'}
+  - {seq: 6, role: markers, filename: assets/KR6i0265_006-T.markers.yaml, hash: 'sha256:59325ae8ccdcbe12630f4ca63b49a8dc0430f6974d11325866c6c27b74c832c4'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0265_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 4652
+  label: 佛說未曾有正法經卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0265_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 5527
+  label: 佛說未曾有正法經卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0265_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 5384
+  label: 佛說未曾有正法經卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0265_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 4490
+  label: 佛說未曾有正法經卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0265_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 4371
+  label: 佛說未曾有正法經卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6i0265_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 4711
+  label: 佛說未曾有正法經卷第六
+  type: juan
+  level: 1
+hash: sha256:d419d9b1a98f5a98526faf0bff66385a45d67edf1ed1aedf409839a16e080a43
