@@ -34,19 +34,20 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0265_000.yaml, hash: 'sha256:2d27473ada29b881048e6559ef5f847776a1c1b3b061416eb238d4ab2b448133'}
-  - {seq: 1, filename: KR6i0265_001.yaml, hash: 'sha256:302df32fb91d03597eeda29c4235e8b70b41d6c2f15e5fb1732fbbde59047817'}
-  - {seq: 2, filename: KR6i0265_002.yaml, hash: 'sha256:bf581c9eee50c66dd2234405ade3950a10eb5156b1cac9ea7e6c18433a1b48ae'}
-  - {seq: 3, filename: KR6i0265_003.yaml, hash: 'sha256:c713084971efe59b95628d16f8c3ca7043989fcab1b22ae6be81dd5880bbedf4'}
-  - {seq: 4, filename: KR6i0265_004.yaml, hash: 'sha256:10de0de2e092192e63d3bc8562e409e45a2efa2227451ab9a45bd631768edc18'}
-  - {seq: 5, filename: KR6i0265_005.yaml, hash: 'sha256:9f14f5b5874a57f969349718976147fb56916351280692c9fa23a4dac53ad053'}
-  - {seq: 6, filename: KR6i0265_006.yaml, hash: 'sha256:628acf64f6fb276408d2db78622e09b0faaf4e1ae8635c211211dbfbe7dfe062'}
+  - {seq: 1, filename: KR6i0265_001.yaml, hash: 'sha256:3008a2c2bce9047fac4deac7471a8d16ee45b14d3e081409b7302fc6fc3e4af5'}
+  - {seq: 2, filename: KR6i0265_002.yaml, hash: 'sha256:2210b5d60eb962ed066a683e030547c3380296f96a42cd321d2060886ee75235'}
+  - {seq: 3, filename: KR6i0265_003.yaml, hash: 'sha256:7474c6127b5983353368519ebd7f52686ae45721454c898bc4d0155b07fa20fa'}
+  - {seq: 4, filename: KR6i0265_004.yaml, hash: 'sha256:8cb10d7b6f8960680b013b8681401c573078fc16d93b624dd0ed373d3b6da24a'}
+  - {seq: 5, filename: KR6i0265_005.yaml, hash: 'sha256:1d866246440fd70d87107cdef517664bef8d9ce08b055f36b7965de665e2c6b8'}
+  - {seq: 6, filename: KR6i0265_006.yaml, hash: 'sha256:e9c57eee5b2cecd38f7c0c3ddfcb3782052b4f7e485b85fbd817b052a5a0289c'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0265_001.markers.yaml, hash: 'sha256:f0c0d2680ff9f8753972d1d3a9fac511e6bd7dc2250712d43e141817c8f22acb'}
-  - {seq: 2, role: markers, filename: assets/KR6i0265_002.markers.yaml, hash: 'sha256:d5a09a7dc346b65aa8316b9855e9f671efc40c40710f50e87acc32a25fbbbdb9'}
-  - {seq: 3, role: markers, filename: assets/KR6i0265_003.markers.yaml, hash: 'sha256:d86607fa91330881d3b88cb8808ebfca360af978dfb1ea60ceb5c8ecc215cdc3'}
-  - {seq: 4, role: markers, filename: assets/KR6i0265_004.markers.yaml, hash: 'sha256:c14319992b20d016418b8fc6f6cb47acc7a5a8e686573ba1d732a1e2efa5fe6c'}
-  - {seq: 5, role: markers, filename: assets/KR6i0265_005.markers.yaml, hash: 'sha256:56f0aa9ee63d1e754fc3d4b897bd515e777e80fcf263385045f0e13cb3de06dd'}
-  - {seq: 6, role: markers, filename: assets/KR6i0265_006.markers.yaml, hash: 'sha256:01e288bae1f734c44fd8bde78dc387fe8cf00958dada3e96822bb9eee4e081a3'}
+  - {seq: 0, role: markers, filename: assets/KR6i0265_000.markers.yaml, hash: 'sha256:7015c04df1da3e22217e935bddfef625f99d819d6af509b7b28313dc62601de6'}
+  - {seq: 1, role: markers, filename: assets/KR6i0265_001.markers.yaml, hash: 'sha256:b10a20b094e7d46593c0f575ad5af4439fa8784c0f7b1e9d95bc35c967cf5ab1'}
+  - {seq: 2, role: markers, filename: assets/KR6i0265_002.markers.yaml, hash: 'sha256:116256e7ae60c8f11d4ff36292397fa9b0285aa35b0e81e0c1623ab49b362365'}
+  - {seq: 3, role: markers, filename: assets/KR6i0265_003.markers.yaml, hash: 'sha256:b12696aeaaa0a0ef2ca18e7580523548b6ba9d18722cbf903ce90c14dab0951c'}
+  - {seq: 4, role: markers, filename: assets/KR6i0265_004.markers.yaml, hash: 'sha256:2cd0aef65abf4da5a1127d699c34bfffc40619ddcdc1309ae32cce31bcae1831'}
+  - {seq: 5, role: markers, filename: assets/KR6i0265_005.markers.yaml, hash: 'sha256:e33ba37da070f0d54205319422717a58df77e9adf4ca4e2222bf6877a0801e64'}
+  - {seq: 6, role: markers, filename: assets/KR6i0265_006.markers.yaml, hash: 'sha256:cad54ac293ed914e23d6e2926b340a6e4ca846c4f94b5dbdfbeecd9e700b8889'}
 table_of_contents:
 - ref:
     seq: 1
@@ -108,7 +109,4 @@ table_of_contents:
   label: 佛說未曾有正法經卷第六
   type: juan
   level: 1
-hash: sha256:2ddd27a7308b2a5a65ede3e07f05f4435ed1a796a863f741b55bae2793e966a8
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:019ca5fc956121125e39399aba61887926053c64637828397d5fbf6f12a926ab
