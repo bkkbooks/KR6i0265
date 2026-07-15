@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6i0265/v1
 canonical_location: https://kanripo.org/bkk/KR6i0265/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說未曾有正法經
   identifiers:
@@ -34,20 +34,20 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0265_000.yaml, hash: 'sha256:2d27473ada29b881048e6559ef5f847776a1c1b3b061416eb238d4ab2b448133'}
-  - {seq: 1, filename: KR6i0265_001.yaml, hash: 'sha256:3008a2c2bce9047fac4deac7471a8d16ee45b14d3e081409b7302fc6fc3e4af5'}
-  - {seq: 2, filename: KR6i0265_002.yaml, hash: 'sha256:2210b5d60eb962ed066a683e030547c3380296f96a42cd321d2060886ee75235'}
-  - {seq: 3, filename: KR6i0265_003.yaml, hash: 'sha256:7474c6127b5983353368519ebd7f52686ae45721454c898bc4d0155b07fa20fa'}
-  - {seq: 4, filename: KR6i0265_004.yaml, hash: 'sha256:8cb10d7b6f8960680b013b8681401c573078fc16d93b624dd0ed373d3b6da24a'}
-  - {seq: 5, filename: KR6i0265_005.yaml, hash: 'sha256:1d866246440fd70d87107cdef517664bef8d9ce08b055f36b7965de665e2c6b8'}
-  - {seq: 6, filename: KR6i0265_006.yaml, hash: 'sha256:e9c57eee5b2cecd38f7c0c3ddfcb3782052b4f7e485b85fbd817b052a5a0289c'}
+  - {seq: 1, filename: KR6i0265_001.yaml, hash: 'sha256:fd656a5b703ef21ee7982723e79542487ad0b2301ef2cc906ef272632615a586'}
+  - {seq: 2, filename: KR6i0265_002.yaml, hash: 'sha256:f4e8d1465b164e4077791e673f5626bb21abba66989cd129cd9004465ebd53e1'}
+  - {seq: 3, filename: KR6i0265_003.yaml, hash: 'sha256:1dd4dda2a95eddd1b3416e653c08eaf08012dbfaee1730a62c07b7f4dffb10d7'}
+  - {seq: 4, filename: KR6i0265_004.yaml, hash: 'sha256:bb6ca5a60937f9cd99523d4677384b92967e2bdd8749692fb4b4a01520e7b8e7'}
+  - {seq: 5, filename: KR6i0265_005.yaml, hash: 'sha256:fe91ed2044b90a9f310c5fe92ec7ed2723dcd006fecf8c57ca501fb7742852be'}
+  - {seq: 6, filename: KR6i0265_006.yaml, hash: 'sha256:a90620aa5338b6056a72a28df7fa9f928c3ee0974d5492a7a51bb7418dda5624'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6i0265_000.markers.yaml, hash: 'sha256:7015c04df1da3e22217e935bddfef625f99d819d6af509b7b28313dc62601de6'}
-  - {seq: 1, role: markers, filename: assets/KR6i0265_001.markers.yaml, hash: 'sha256:b10a20b094e7d46593c0f575ad5af4439fa8784c0f7b1e9d95bc35c967cf5ab1'}
-  - {seq: 2, role: markers, filename: assets/KR6i0265_002.markers.yaml, hash: 'sha256:116256e7ae60c8f11d4ff36292397fa9b0285aa35b0e81e0c1623ab49b362365'}
-  - {seq: 3, role: markers, filename: assets/KR6i0265_003.markers.yaml, hash: 'sha256:b12696aeaaa0a0ef2ca18e7580523548b6ba9d18722cbf903ce90c14dab0951c'}
-  - {seq: 4, role: markers, filename: assets/KR6i0265_004.markers.yaml, hash: 'sha256:2cd0aef65abf4da5a1127d699c34bfffc40619ddcdc1309ae32cce31bcae1831'}
-  - {seq: 5, role: markers, filename: assets/KR6i0265_005.markers.yaml, hash: 'sha256:e33ba37da070f0d54205319422717a58df77e9adf4ca4e2222bf6877a0801e64'}
-  - {seq: 6, role: markers, filename: assets/KR6i0265_006.markers.yaml, hash: 'sha256:cad54ac293ed914e23d6e2926b340a6e4ca846c4f94b5dbdfbeecd9e700b8889'}
+  - {seq: 1, role: markers, filename: assets/KR6i0265_001.markers.yaml, hash: 'sha256:74d7f0eef4a42e7fbcdc7b395a7054a43617c3032627e6e409940c3a54a9d97c'}
+  - {seq: 2, role: markers, filename: assets/KR6i0265_002.markers.yaml, hash: 'sha256:c117574ee31a19267480fda623854cdfee65ba5704bef3294bd098d5c482fe6e'}
+  - {seq: 3, role: markers, filename: assets/KR6i0265_003.markers.yaml, hash: 'sha256:d1d2c7d1d0ae2ab00de781a51c02213d2d61914de201540fab6c6fa624ea695c'}
+  - {seq: 4, role: markers, filename: assets/KR6i0265_004.markers.yaml, hash: 'sha256:0e8a26a302745892dfccdc781824a71fd25df43dec2e4b87fd09a4b4ffb661c0'}
+  - {seq: 5, role: markers, filename: assets/KR6i0265_005.markers.yaml, hash: 'sha256:893e6e133ec13022cd0fe334ec6842f38a0eeaafb11981c08855df04a6eacc3c'}
+  - {seq: 6, role: markers, filename: assets/KR6i0265_006.markers.yaml, hash: 'sha256:92121e56832e3de69a3ef4dcdf9b14452a55861d51af15119c27ddcdc324d304'}
 table_of_contents:
 - ref:
     seq: 1
@@ -109,4 +109,7 @@ table_of_contents:
   label: 佛說未曾有正法經卷第六
   type: juan
   level: 1
-hash: sha256:019ca5fc956121125e39399aba61887926053c64637828397d5fbf6f12a926ab
+hash: sha256:becdf50dd3577bc91b21b98210de317a343847ec161415dbfc590e5ee79a09f2
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
